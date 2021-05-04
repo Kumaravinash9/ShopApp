@@ -19,4 +19,5 @@ flutter run
 | ![](assets/images/9.jpeg) | ![](assets/images/1.jpeg) | ![](assets/images/2.jpeg) |
 |:--------------------------|:--------------------------|:--------------------------|
 | ![](assets/images/4.jpeg) | ![](assets/images/5.jpeg) | ![](assets/images/8.jpeg) |
-| ![](assets/images/7.jpeg) |                           |                           |
+|:--------------------------|:--------------------------|:--------------------------|
+| ![](assets/images/7.jpeg) | ![](https://user-images.githubusercontent.com/64456168/116888247-d9679880-ac48-11eb-8e12-8968285ce098.jpeg)|               |
